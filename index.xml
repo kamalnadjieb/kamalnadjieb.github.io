@@ -28,7 +28,7 @@ In 2016, me with other colleagues founded DAGOZILLA ITB, back then still a Mobil
       
       <guid>https://kamalnadjieb.github.io/projects/cpp-mjpeg-streamer/</guid>
       <description>https://github.com/nadjieb/cpp-mjpeg-streamer
-Features  No OpenCV dependencies (Clear problems separation) Set different streams depending on HTTP GET path Multi-threaded streaming Single Header-only library  </description>
+Features  No OpenCV dependencies (Clear problems separation) Set different streams depending on HTTP GET path Multi-threaded streaming Single Header-only library Graceful shutdown  </description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@ Features  No OpenCV dependencies (Clear problems separation) Set different strea
       <pubDate>Thu, 11 Jun 2020 03:23:14 +0700</pubDate>
       
       <guid>https://kamalnadjieb.github.io/projects/dagozilla/</guid>
-      <description>About  Founded in 2016, DAGOZILLA ITB is a research team from Institut Teknologi Bandung (ITB) which focuses on Mobile Robot Development. Co-founded and built a strong multidisciplinary engineering team. Developed vision system with OpenCV in C++ for Mobile Soccer Robots to detect ball, field, lines, and obstacles. Also initiated catadioptric mirror transformation feature. Guided the team until in 2020 to be qualified for RoboCup Middle Size League for the first time (https://msl.</description>
+      <description>About  Founded in 2016, DAGOZILLA ITB is a research team from Institut Teknologi Bandung (ITB) which focuses on Mobile Robot Development. Co-founded and built a strong multidisciplinary engineering team. Developed vision system with OpenCV in C++ for Mobile Soccer Robots. Guided the team until in 2020 to be qualified for RoboCup Middle Size League for the first time (https://msl.robocup.org/news/2020-qualification-results).  Links  Website: https://dagozilla.itb.ac.id/ LinkedIn: https://www.linkedin.com/company/dagozilla-itb Instagram: https://www.instagram.com/dagozillaitb/  </description>
     </item>
     
   </channel>
