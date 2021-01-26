@@ -22,6 +22,17 @@ Features  No OpenCV dependencies (Clear problems separation) Set different strea
     </item>
     
     <item>
+      <title>Gawe</title>
+      <link>https://kamalnadjieb.github.io/projects/gawe/</link>
+      <pubDate>Thu, 11 Jun 2020 03:29:08 +0700</pubDate>
+      
+      <guid>https://kamalnadjieb.github.io/projects/gawe/</guid>
+      <description>https://github.com/nadjieb/gawe
+Description Gawe is a Go library for processing background jobs using Go channels as FIFO queue to control the job execution and worker instantiation.
+Installation go get -u github.com/nadjieb/gawe </description>
+    </item>
+    
+    <item>
       <title>DAGOZILLA ITB</title>
       <link>https://kamalnadjieb.github.io/projects/dagozilla/</link>
       <pubDate>Thu, 11 Jun 2020 03:23:14 +0700</pubDate>
