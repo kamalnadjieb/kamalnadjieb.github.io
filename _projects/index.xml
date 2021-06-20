@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kamal Nadjieb</title>
-    <link>https://kamalnadjieb.github.io/</link>
-    <description>Recent content on Kamal Nadjieb</description>
+    <title>_projects on Kamal Nadjieb</title>
+    <link>https://kamalnadjieb.github.io/_projects/</link>
+    <description>Recent content in _projects on Kamal Nadjieb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://kamalnadjieb.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kamalnadjieb.github.io/_projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -39,30 +39,12 @@ Features  No OpenCV dependencies (Clear problems separation) Set different strea
     </item>
     
     <item>
-      <title>Hi, I&#39;m Kamal!</title>
-      <link>https://kamalnadjieb.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kamalnadjieb.github.io/about/</guid>
-      <description>My Story In 2016, me with other colleagues founded DAGOZILLA ITB, back then still a Mobile Soccer Robot Team that compete annually in a local RoboCup Middle Size League-typed competition named KRSBI-B (Kontes Robot Sepak Bola Indonesia Beroda). After graduated from Institut Teknologi Bandung (ITB), I still gave advices and helped the team become more established. After 4 years of research and development, by 2020, we&amp;rsquo;re qualified to compete in RoboCup Middle Size League for the first time at the good rank for a new comer.</description>
-    </item>
-    
-    <item>
       <title>Mitra Bukalapak</title>
       <link>https://kamalnadjieb.github.io/projects/mitra-bukalapak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kamalnadjieb.github.io/projects/mitra-bukalapak/</guid>
       <description>About  Mitra Bukalapak is an O2O (online-to-offline) product from Bukalapak.  Links  Website: https://mitra.bukalapak.com/  </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://kamalnadjieb.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kamalnadjieb.github.io/projects/</guid>
-      <description> DAGOZILLA ITB C++ MJPEG over HTTP Library BukaPengadaan by Bukalapak Mitra Bukalapak  </description>
     </item>
     
   </channel>
